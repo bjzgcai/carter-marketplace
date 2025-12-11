@@ -154,7 +154,7 @@ quickest way:
 claude plugin disable useful-plugin && claude plugin enable useful-plugin && claude
 ```
 
-
+!important tips: claude code extension in vscode may not support well like cli
 
 ### Using Plugins
 
